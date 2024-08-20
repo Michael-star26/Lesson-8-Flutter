@@ -1,0 +1,9 @@
+{
+    "problems.decorations.enabled": false,
+    "problems.autoReveal": false,
+    "outline.problems.enabled": false,
+    "outline.problems.badges": false,
+    "outline.problems.colors": false,
+    "typescript.reportStyleChecksAsWarnings": false,
+    "editor.copyWithSyntaxHighlighting": false
+}
